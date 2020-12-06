@@ -7,3 +7,5 @@ Step3: Create a file name as Procfile
         P should be capital
 Step4: Initialise your project as git project
        git init
+Step5: Start tracking all the project files
+        git add .
