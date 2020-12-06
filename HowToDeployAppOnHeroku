@@ -1,0 +1,9 @@
+Step1: Create a new anaconda environment
+        conda create -n linearapp python==3.6.9
+Step2: Install the requirements file
+        pip install -r requirements.txt
+Step3: Create a file name as Procfile
+        There is no extension for this Procfile
+        P should be capital
+Step4: Initialise your project as git project
+       git init
