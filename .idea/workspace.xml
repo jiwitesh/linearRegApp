@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75798508-16c3-4655-962c-a36fff8d39f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ebignore" beforeDir="false" afterPath="$PROJECT_DIR$/.ebignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/How to Run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/How to Run.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HowToDeployAppOnHeroku" beforeDir="false" afterPath="$PROJECT_DIR$/HowToDeployAppOnHeroku" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearRegressionApp.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/BrandMeasureProject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.application">
     <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LinearRegressionApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.application" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>

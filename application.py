@@ -5,11 +5,11 @@ import pickle
 
 application = Flask(__name__) # initializing a flask app
 # app=application
-@application.route('/',methods=['GET'])  # route to display the home page
+@application.route('/', methods=['GET'])  # route to display the home page
 def homePage():
     return render_template("index.html")
 
-@application.route('/predict',methods=['POST','GET']) # route to show the predictions in a web UI
+@application.route('/predict', methods=['POST', 'GET']) # route to show the predictions in a web UI
 def index():
     if request.method == 'POST':
         try:
